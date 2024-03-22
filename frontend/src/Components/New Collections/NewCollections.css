@@ -85,3 +85,10 @@
     gap: 20px;
   }
 }
+
+@media(max-width: 410px){
+  .collections{
+    display: grid;
+    padding-left: 10px;
+  }
+}
